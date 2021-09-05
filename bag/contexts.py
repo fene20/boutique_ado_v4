@@ -1,4 +1,4 @@
-from decimal import Decimal # use Decimal to prevent rounding errors
+from decimal import Decimal  # use Decimal to prevent rounding errors
 from django.conf import settings
 
 
